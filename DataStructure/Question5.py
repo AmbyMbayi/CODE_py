@@ -9,5 +9,5 @@ word = ['red','yellow','black','black','black','black','pink','white', 'red', 'r
 from collections import Counter
 
 word_counts = Counter(word)
-top_four = word_counts.most_common(5)
+top_four = word_counts.most_common()
 print(top_four)

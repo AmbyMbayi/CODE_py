@@ -1,0 +1,1 @@
+The questions are based on dataset from titatic ship sink
